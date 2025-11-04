@@ -1,4 +1,5 @@
-  <Response>
+<Response>
     <Say>Connecting you now...</Say>
-    <Dial timeout="30">+917201037720</Dial>
-  </Response>
+    <Dial timeout="30" action="http://twimlets.com/holdmusic">+917201037720</Dial>
+    <Say>Sorry, the call could not be connected.</Say>
+</Response>
