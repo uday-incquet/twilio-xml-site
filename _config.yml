@@ -1,0 +1,5 @@
+title: Twilio XML Site
+description: A simple site to showcase Twilio XML responses.
+theme: minima
+url: https://yourusername.github.io/twilio-xml-site
+baseurl: ""
