@@ -1,0 +1,3 @@
+<Files "*.xml">
+    Header set Content-Type "application/xml"
+</Files>
